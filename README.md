@@ -1,2 +1,6 @@
 # Chatbot_test
-First connect to the existing large model as a function display and increase
+*加入了部分功能：*
+- 支持shift+enter换行，支持输入框动态变化
+- 支持侧边栏收缩与展开
+- 支持聊天窗口动态布满全屏
+- 加入了“思考中...”
